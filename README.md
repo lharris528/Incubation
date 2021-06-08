@@ -22,3 +22,4 @@ Main flaws that I've noticed:
      and start you out simply viewing the menu of that restaurant.
   2. The looks are a bit... lacking.
   3. You have to click the 'Pay Now' button twice for it to do anything.
+  4. The inputs for quantity are not validated to exclude fractions and e.
